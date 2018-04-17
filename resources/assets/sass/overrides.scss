@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+.is-muted
+{
+  color:$grey-light !important;
+}
+
+a.is-muted:hover{
+  color:$grey !important;
+}
+
+
+.navbar {
+  background-color: $white-ter;
+  height:140px;
+  border-bottom:0px solid #000;
+  z-index:1000;
+}
+
+
+
+.columns
+{
+  margin:0 auto;
+}
+
+.navbar-item
+{
+  font-family:'Architects Daughter',cursive;
+  font-size:30px;
+  margin-top:30px;
+    z-index:1000;
+}
